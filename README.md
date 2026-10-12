@@ -1,16 +1,17 @@
 ## Hi there 👋
+# ¡Hola! Soy Luciano 👋
 
-<!--
-**Vivinetto/Vivinetto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy estudiante de primer año de **Analista de Sistemas** en ORT y estoy dando mis primeros pasos en el mundo del desarrollo. Me gusta entender cómo funcionan las cosas por detrás y estructurar buenas soluciones.
 
-Here are some ideas to get you started:
+## 🚀 Qué estoy aprendiendo
+Actualmente estoy enfocado en dominar los fundamentos de la programación orientada a objetos:
+- ☕ **Lenguajes:** Java
+- 📐 **Diseño y Arquitectura:** UML 
+- 🛠️ **Herramientas:** VS Code, Eclipse y GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💡 Proyectos actuales
+- Construyendo un Sistema de Gestión de Cine en Java para aplicar conceptos de matrices, herencia y polimorfismo.
+
+## ⚡ Un poco sobre mí
+- Soy un Barista de 23 años que quiere cambiar su vida, apuntando a mayor calidad e independencia economica.
+- ¡Siempre dispuesto a aprender algo nuevo!
